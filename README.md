@@ -1,1 +1,4 @@
-"# Data-Structure-Algorithms-Practice-Questions" 
+Data Structures and Algorithms
+
+1) Array
+   
